@@ -1,0 +1,12 @@
+# Path budget: 512 bytes, declared in artifacts/PATH_BUDGET.md.
+**/node_modules/
+**/.npm/
+**/.cache/
+**/.vite/
+**/.vite-temp/
+**/__pycache__/
+**/coverage/
+**/*.tsbuildinfo
+.playwright-mcp/
+test/scratch/
+# dist/ is intentionally included.
